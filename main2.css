@@ -1,0 +1,16 @@
+h1 {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  font-size: 24px;
+}
+.caption {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  font-size: 18px;
+  color: magenta;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
